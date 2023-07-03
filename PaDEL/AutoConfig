@@ -1,0 +1,20 @@
+#Sun Mar 05 17:37:50 CST 2023
+TautomerFile=
+MaxJobsWaiting=-1
+Log=true
+Retain3D=false
+ComputeFingerprints=false
+RetainOrder=true
+DescriptorFile=
+StandardizeNitro=true
+MaxThreads=-1
+Compute3D=false
+StandardizeTautomers=false
+Compute2D=true
+DetectAromaticity=true
+RemoveSalt=true
+MaxCpdPerFile=0
+MaxRunTime=-1
+Convert3D=No
+Directory=
+UseFilenameAsMolName=false
